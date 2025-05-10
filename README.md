@@ -64,13 +64,6 @@ npm install
 npm run dev
 
 
-🌍 Supporto Multilingua
-
-L'app permette la scelta della lingua tra:
-- 🇮🇹 Italiano
-- 🇬🇧 Inglese
-
-La lingua può essere selezionata direttamente dalle interfacce di login, registrazione e dashboard.
 
 👤 Autore
 
