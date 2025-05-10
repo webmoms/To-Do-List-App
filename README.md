@@ -64,8 +64,6 @@ npm install
 npm run dev
 
 
-L'app sarà disponibile su `http://localhost:5173`.
-
 🌍 Supporto Multilingua
 
 L'app permette la scelta della lingua tra:
