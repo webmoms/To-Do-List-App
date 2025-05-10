@@ -46,7 +46,7 @@ todo-app-fullstack/
 
 1. Clona il repository
 bash
-git clone https://github.com/tuo-username/todo-app-fullstack.git
+git clone https://github.com//webmoms/To-Do-List-App.git 
 cd todo-app-fullstack
 
 2. Avvia il backend
